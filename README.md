@@ -1,8 +1,5 @@
 # CodeGenerator
 
-```
-# CodeGenerator
-
 🤖 Generate code snippets effortlessly with the CodeGenerator!
 
 The CodeGenerator is a Python class that utilizes the power of pre-trained language models to generate code snippets based on different prompt styles. Whether you need to complete partial code snippets, generate function signatures, add comments or docstrings, the CodeGenerator has got you covered!
